@@ -10,7 +10,7 @@
     "cz-conventional-changelog-ja": "^0.0.2",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jest": "^26.1.5",
-    "jest": "^27.5.1"
+    "jest": "^28.0.2"
   },
   "dependencies": {
     "typescript": "^4.6.3"
