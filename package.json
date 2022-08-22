@@ -9,7 +9,7 @@
     "cz-cli": "^1.0.0",
     "cz-conventional-changelog-ja": "^0.0.2",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-jest": "^26.5.3",
+    "eslint-plugin-jest": "^26.8.7",
     "jest": "^28.0.2"
   },
   "dependencies": {
