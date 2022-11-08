@@ -988,9 +988,9 @@ eslint-config-prettier@^8.5.0:
   version "8.5.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
 
-eslint-plugin-jest@^27.1.2:
-  version "27.1.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-27.1.2.tgz#5d29f1cf954e70f3d47f2465fca17cddfdb4430b"
+eslint-plugin-jest@^27.1.4:
+  version "27.1.4"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-27.1.4.tgz#bdfaf51ee9ed0b86dac1e83753e22da072acaa92"
   dependencies:
     "@typescript-eslint/utils" "^5.10.0"
 
